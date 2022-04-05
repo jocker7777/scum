@@ -1,5 +1,4 @@
-{ 5555555555
-	9999999999
+{ 
 	"economy-override":
 	{
 		"enable-economy" : "1",
@@ -57,7 +56,7 @@
 				{"tradeable-code" : "Bulletproof_Vest_04", "base-purchase-price" : "6000", "base-sell-price" : "350", "delta-price" : "-1.0", "can-be-purchased" : "true"},
 				{"tradeable-code" : "Bulletproof_Vest_05", "base-purchase-price" : "6000", "base-sell-price" : "350", "delta-price" : "-1.0", "can-be-purchased" : "true"},
 				{"tradeable-code" : "Bulletproof_Vest_06", "base-purchase-price" : "6000", "base-sell-price" : "350", "delta-price" : "-1.0", "can-be-purchased" : "true"},
-				{"tradeable-code" : "Armor_Tactical_Vest_01", "base-purchase-price" : "12000", "base-sell-price" : "550", "delta-price" : "-1.0", "can-be-purchased" : "true"},
+				{"tradeable-code" : "Armor_Tactical_Vest_01", "base-purchase-price" : "12000", "base-sell-price" : "550", "delta-price" : "-1.0", "can-be-purchased" : "false"},
 				{"tradeable-code" : "Armor_Tactical_Vest_02", "base-purchase-price" : "12000", "base-sell-price" : "550", "delta-price" : "-1.0", "can-be-purchased" : "true"},
 				{"tradeable-code" : "Armor_Tactical_Vest_03", "base-purchase-price" : "12000", "base-sell-price" : "550", "delta-price" : "-1.0", "can-be-purchased" : "true"},
 				{"tradeable-code" : "Armor_Tactical_Vest_04", "base-purchase-price" : "12000", "base-sell-price" : "550", "delta-price" : "-1.0", "can-be-purchased" : "true"},
