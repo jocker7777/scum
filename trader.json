@@ -1,5 +1,5 @@
 { 
-	7777777
+	
 	"economy-override":
 	{
 		"enable-economy" : "1",
@@ -29,7 +29,7 @@
 		{ 
 			"A_0_Armory": 
 			[
-				{"tradeable-code" : "BPC_Weapon_M82A1_Black", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "false"},		
+				{"tradeable-code" : "BPC_Weapon_M82A1_Black", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "true"},		
 				{"tradeable-code" : "BP_Weapon_M82A1", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "false"},
 				{"tradeable-code" : "BPC_Weapon_M82A1_Desert", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "false"},
 				{"tradeable-code" : "BPC_Weapon_M82A1_Snow", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "false"},
