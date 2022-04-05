@@ -6,7 +6,7 @@
 		"prices-randomization-time-hours" : "-1",
 		"fully-restock-tradeable-hours" : "3.0",
 		"trader-funds-change-rate-per-hour-multiplier" : "1.0",
-		"traders-unlimited-funds" : "0",
+		"traders-unlimited-funds" : "10000",
 		"limited-tradeables" :
 		{
 			"limited-vehicles":
